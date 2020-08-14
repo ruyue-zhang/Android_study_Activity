@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Activity练习</string>
+    <string name="ActivityPractice">Avtivity练习</string>
+    <string name="choose">选择</string>
+    <string name="choose_contacts">选择联系人</string>
+</resources>
