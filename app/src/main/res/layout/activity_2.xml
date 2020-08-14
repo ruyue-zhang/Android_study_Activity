@@ -17,10 +17,11 @@
         android:layout_marginTop="40dp"/>
 
     <TextView
-        android:layout_width="300dp"
-        android:layout_height="50dp"
-        android:background="#444444"
-        android:layout_marginTop="500dp" />
+        android:id="@+id/contact_info"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#E8D9D9"
+        android:layout_marginTop="400dp" />
 
 
 </androidx.appcompat.widget.LinearLayoutCompat>
