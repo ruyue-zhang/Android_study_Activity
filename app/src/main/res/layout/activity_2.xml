@@ -16,12 +16,19 @@
         android:textAllCaps="false"
         android:layout_marginTop="40dp"/>
 
+    <Button
+        android:id="@+id/life_cycle"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:text="@string/lifeCycle"
+        android:textAllCaps="false"
+        android:layout_marginTop="40dp"/>
+
     <TextView
         android:id="@+id/contact_info"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:background="#E8D9D9"
         android:layout_marginTop="400dp" />
-
 
 </androidx.appcompat.widget.LinearLayoutCompat>

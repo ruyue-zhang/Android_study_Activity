@@ -31,6 +31,15 @@ public class Activity2 extends AppCompatActivity {
                 }
             }
         });
+
+        View startLifeCycle = findViewById(R.id.life_cycle);
+        startLifeCycle.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(Activity2.this, lifeCycle.class);
+                startActivity(intent);
+            }
+        });
     }
 
 
